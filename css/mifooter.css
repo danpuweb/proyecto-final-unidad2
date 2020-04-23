@@ -1,0 +1,29 @@
+.iconosredes {
+    text-align: center;
+   display: inline-block;
+   list-style: none;
+   
+}
+
+.ajusteicono {
+    display: inline-block;
+    margin: 70px  70px;
+    text-align: center;
+    margin: right;
+    height: 90;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.textofooter {
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color: salmon;
+    height: 80px;
+    list-style: none;
+}
+
